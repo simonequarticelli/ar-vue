@@ -5,9 +5,9 @@
         embedded
         arjs="trackingMethod: best; sourceType: webcam; debugUIEnabled: false;">
 
-      <a-marker type="pattern" url="/public/pattern-marker.patt">
+      <a-marker type="pattern" url="/pattern-marker.patt">
         <a-entity
-            gltf-model="/public/coin.glb"
+            gltf-model="/coin.glb"
             scale="0.5 0.5 0.5"
             position="0 0 0"
             animation-mixer>
