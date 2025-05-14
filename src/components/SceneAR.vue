@@ -8,8 +8,8 @@
       <a-marker type="pattern" url="/pattern-marker.patt">
         <a-entity
             gltf-model="/coin.glb"
-            scale="0.5 0.5 0.5"
-            position="0 0 0"
+            scale="0.2 0.2 0.2"
+            position="0 0 -1"
             animation-mixer>
         </a-entity>
       </a-marker>
