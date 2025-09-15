@@ -7,9 +7,10 @@
       <a-marker type="pattern" url="/pattern-marker.patt">
         <a-entity
             gltf-model="/coin.glb"
-            scale="0.1 0.1 0.1"
-            animation-mixer
-            cursor="rayOrigin: mouse">
+            scale="0.2 0.2 0.2"
+            position="0 0 -1"
+            rotation="0 0 0"
+            animation-mixer>
         </a-entity>
       </a-marker>
       <a-entity camera></a-entity>
