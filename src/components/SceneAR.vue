@@ -9,9 +9,10 @@
             gltf-model="/coin.glb"
             scale="0.2 0.2 0.2"
             position="0 0 -1"
-            rotation="0 180 0"
+            rotation="0 0 0"
             animation-mixer
-            look-controls="enabled: true; pointerLockEnabled: false">
+            coin-rotation="autoRotate: false"
+            cursor="rayOrigin: mouse">
         </a-entity>
       </a-marker>
       <a-entity camera></a-entity>
