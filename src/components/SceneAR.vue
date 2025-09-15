@@ -6,7 +6,7 @@
         arjs="trackingMethod: best; sourceType: webcam; debugUIEnabled: false;">
       <a-marker type="pattern" url="/pattern-marker.patt">
         <a-entity
-            gltf-model="/coin.glb"
+            gltf-model="/porsche_911_gt3.glb"
             scale="0.1 0.1 0.1"
             position="0 0 0"
             look-at="[camera]"
