@@ -8,8 +8,8 @@
         <a-entity
             gltf-model="/coin.glb"
             scale="0.1 0.1 0.1"
-            position="0 0 -1"
-            rotation="90 0 0"
+            position="0 0 0"
+            rotation="0 0 0"
             animation-mixer>
         </a-entity>
       </a-marker>
