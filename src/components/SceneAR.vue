@@ -7,8 +7,8 @@
       <a-marker type="pattern" url="/pattern-marker.patt">
         <a-entity
             gltf-model="/eva.glb"
-            scale="0.5 0.5 0.5"
-            position="0 0 90"
+            scale="0.3 0.3 0.3"
+            position="0 0 180"
             animation-mixer>
         </a-entity>
       </a-marker>
