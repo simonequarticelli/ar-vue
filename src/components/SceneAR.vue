@@ -1,3 +1,5 @@
+<script src="https://unpkg.com/aframe-look-at-component@0.8.0/dist/aframe-look-at-component.min.js"></script>
+
 <template>
   <div id="ar-scene">
     <a-scene
@@ -9,7 +11,7 @@
             gltf-model="/coin.glb"
             scale="0.1 0.1 0.1"
             position="0 0 0"
-            rotation="0 180 90"
+            look-at="[camera]"
             animation-mixer>
         </a-entity>
       </a-marker>
