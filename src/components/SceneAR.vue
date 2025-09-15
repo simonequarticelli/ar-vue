@@ -9,7 +9,7 @@
             gltf-model="/coin.glb"
             scale="0.2 0.2 0.2"
             position="0 0 0"
-            rotation="0 90 90"
+            rotation="0 180 90"
             animation-mixer>
         </a-entity>
       </a-marker>
