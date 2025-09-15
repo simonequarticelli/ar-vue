@@ -6,7 +6,7 @@
         arjs="trackingMethod: best; sourceType: webcam; debugUIEnabled: false;">
       <a-marker type="pattern" url="/pattern-marker.patt">
         <a-entity
-            gltf-model="/coin.glb"
+            gltf-model="/eva.glb"
             scale="0.2 0.2 0.2"
             position="0 0 0"
             animation-mixer>
